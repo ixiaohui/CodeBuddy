@@ -1,1 +1,1 @@
-CodeBuddy中实现的项目
+codebuddy-web-project
