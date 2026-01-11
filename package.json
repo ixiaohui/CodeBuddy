@@ -1,0 +1,6 @@
+{
+  "name": "agi-next-website",
+  "scripts": {
+    "build": "cd agi-next-website && npm run build"
+  }
+}
