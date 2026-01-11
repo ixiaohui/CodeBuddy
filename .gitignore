@@ -1,0 +1,6 @@
+# Git 本身
+.git
+
+# 根目录下的其他文件
+.codebuddy
+AGI-Next研讨会实录.md
